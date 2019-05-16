@@ -1,10 +1,11 @@
 <?php
 
 /**
+ * 项目入口文件
  * @Author: barry
  * @Date:   2019-05-09 20:10:41
  * @Last Modified by:   gongfangwei
- * @Last Modified time: 2019-05-16 17:01:30
+ * @Last Modified time: 2019-05-16 18:01:49
  */
 
 //进入自定义首页

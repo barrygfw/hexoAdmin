@@ -1,10 +1,9 @@
 <?php
-//自动加载类
 /**
  * @Author: barry
  * @Date:   2019-05-09 20:28:03
  * @Last Modified by:   gongfangwei
- * @Last Modified time: 2019-05-16 16:56:44
+ * @Last Modified time: 2019-05-16 18:02:27
  */
 /**
  * 自动加载类
