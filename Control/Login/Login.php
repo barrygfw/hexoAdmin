@@ -1,16 +1,13 @@
 <?php
-require_once __DIR__ . '/../Controller.php';
 /**
  * @Author: gongfangwei
  * @Date:   2019-05-12 12:44:07
  * @Last Modified by:   gongfangwei
- * @Last Modified time: 2019-05-13 22:26:26
+ * @Last Modified time: 2019-05-16 16:34:29
  */
-class Control_Login_Login extends Control_Controller
+class Login_Login extends Controller
 {
 	public function action(){
-		echo "hello world";
+		echo "hello Login";
 	}
 }
-
-new Control_Login_Login();
