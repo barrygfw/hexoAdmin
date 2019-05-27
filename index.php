@@ -5,10 +5,9 @@
  * @Author: barry
  * @Date:   2019-05-09 20:10:41
  * @Last Modified by:   gongfangwei
- * @Last Modified time: 2019-05-16 18:01:49
+ * @Last Modified time: 2019-05-16 18:11:18
  */
 
-//进入自定义首页
 define("APP_ROOT_PATH", __DIR__ . DIRECTORY_SEPARATOR);
 define("DEBUG", true);
 
